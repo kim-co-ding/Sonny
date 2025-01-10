@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 import numpy as np 
 import pandas as pd
+from zoneinfo import ZoneInfo
 
 # 한글폰트를 적용하겠습니다.
 # 현재 경로를 알기 위해서 os 모듈을 import 합니다.
